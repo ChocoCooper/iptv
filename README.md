@@ -1,4 +1,3 @@
 # iptv
 
-source from iptv-web.app/
-Tested with streamtest.in
+source from iptv-web.app and tested with streamtest.in
