@@ -1,33 +1,23 @@
 #EXTM3U
-#EXTINF:-1 , Channel_1
+#EXTINF:-1 , tvg-logo="https://en.wikipedia.org/wiki/File:Star_Vijay_logo_2023.png" , Vijay TV HD
 http://87.255.35.150:18955
-#EXTINF:-1 , Channel_2
-https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
-#EXTINF:-1 , Channel_3
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zee_Tamil_2025.svg/724px-Zee_Tamil_2025.svg.png" , Zee Tamil HD
 http://87.255.35.150:18553
-#EXTINF:-1 , Channel_4
-http://87.255.35.150:18820
-#EXTINF:-1 , Channel_5
+#EXTINF:-1 , tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png" , Vijay Super HD
 http://87.255.35.150:18954
-#EXTINF:-1 , Channel_6
-http://87.255.35.150:18805
-#EXTINF:-1 , Channel_7
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Zee_Thirai_2025.svg/721px-Zee_Thirai_2025.svg.png" , Zee Thirai HD
 http://87.255.35.150:18597
-#EXTINF:-1 , Channel_8
+#EXTINF:-1 , tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2F200%2F-%2FVijay_Takkar.png&w=256&q=100" , Vijay Takkar
 http://87.255.35.150:18950
-#EXTINF:-1 , Channel_9
+#EXTINF:-1 , tvg-logo="https://pluspng.com/img-png/star-movies-logo-png--800.png" , Star Movies HD
 http://87.255.35.150:18301
-#EXTINF:-1 , Channel_10
+#EXTINF:-1 , tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Movies now HD.png" , Movies Now HD
 http://87.255.35.150:18935
-#EXTINF:-1 , Channel_11
+#EXTINF:-1 , tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" , Sony Pix HD
 http://87.255.35.150:18495
-#EXTINF:-1 , Channel_12
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" , MNX HD
 http://87.255.35.150:18936
-#EXTINF:-1 , Channel_13
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" , Hungama
 http://87.255.35.150:18811
-#EXTINF:-1 , Channel_14
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" , Disney Channel
 http://66.102.120.18:8000/play/a013/index.m3u8
-#EXTINF:-1 , Channel_15
-http://87.255.35.150:18838
-#EXTINF:-1 , Channel_16
-http://87.255.35.150:18844
