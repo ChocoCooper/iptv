@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Star_Vijay_logo_2023.png" , Vijay TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png" , Vijay TV HD
 http://87.255.35.150:18955
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zee_Tamil_2025.svg/724px-Zee_Tamil_2025.svg.png" , Zee Tamil HD
 http://87.255.35.150:18553
@@ -9,7 +9,7 @@ http://87.255.35.150:18954
 http://87.255.35.150:18597
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2F200%2F-%2FVijay_Takkar.png&w=256&q=100" , Vijay Takkar
 http://87.255.35.150:18950
-#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/star-movies-logo-png--800.png" , Star Movies HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" , Star Movies HD
 http://87.255.35.150:18301
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Movies now HD.png" , Movies Now HD
 http://87.255.35.150:18935
