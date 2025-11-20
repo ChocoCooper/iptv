@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="Star Vijay HD.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png" , Vijay TV HD
 http://87.255.35.150:18955
+#EXTINF:-1 tvg-id="Sun TV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" , Sun TV HD
+http://87.255.35.150:18894
 #EXTINF:-1 tvg-id="Zee Tamil HD.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zee_Tamil_2025.svg/724px-Zee_Tamil_2025.svg.png" , Zee Tamil HD
 http://87.255.35.150:18553
 #EXTINF:-1 tvg-id="Colors Tamil HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" , Colors Tamil HD
@@ -9,7 +11,7 @@ http://87.255.35.150:18225
 #EXTINF:-1 tvg-id="Jaya TV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" , Jaya TV HD
 http://87.255.35.150:18820
 #EXTINF:-1 tvg-id="Kalaignar TV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" , Kalaignar TV
-https://edge2-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/chunklist_b996000.m3u8
+http://87.255.35.150:18871
 #EXTINF:-1 tvg-id="KTV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png" , KTV HD
 http://87.255.35.150:18805
 #EXTINF:-1 tvg-id="Vijay Super HD.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png" , Vijay Super HD
