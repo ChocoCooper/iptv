@@ -1,26 +1,27 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
 
-#EXTINF:-1 tvg-id="ts496" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png" , Vijay TV HD
+#EXTINF:-1 tvg-id="VIJAY.HD.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png" , Vijay TV HD
 http://87.255.35.150:18955
-#EXTINF:-1 tvg-id="ts608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zee_Tamil_2025.svg/724px-Zee_Tamil_2025.svg.png" , Zee Tamil HD
+#EXTINF:-1 tvg-id="ZEE.TAMIL.HD.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zee_Tamil_2025.svg/724px-Zee_Tamil_2025.svg.png" , Zee Tamil HD
 http://87.255.35.150:18553
-#EXTINF:-1 tvg-id="ts1176" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png" , Vijay Super HD
+#EXTINF:-1 tvg-id="VIJAY.SUPER.HD.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png" , Vijay Super HD
 http://87.255.35.150:18954
-#EXTINF:-1 tvg-id="ts1182" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Zee_Thirai_2025.svg/724px-Zee_Thirai_2025.svg.png" , Zee Thirai HD
+#EXTINF:-1 tvg-id="Zee.Thirai.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Zee_Thirai_2025.svg/724px-Zee_Thirai_2025.svg.png" , Zee Thirai HD
 http://87.255.35.150:18597
-#EXTINF:-1 tvg-id="ts906" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Takkar.png" , Vijay Takkar
+#EXTINF:-1 tvg-id="VIJAY.TAKKAR.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Takkar.png" , Vijay Takkar
 http://87.255.35.150:18950
-#EXTINF:-1 tvg-id="ts560" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" , Star Movies HD
+#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" , Star Movies HD
 http://87.255.35.150:18301
-#EXTINF:-1 tvg-id="ts593" tvg-logo="https://i.imgur.com/bnzDNCF.png" , Star Movies Select HD
+#EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" tvg-logo="https://i.imgur.com/bnzDNCF.png" , Star Movies Select HD
 http://87.255.35.150:18548
-#EXTINF:-1 tvg-id="ts562" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Movies now HD.png" , Movies Now HD
+#EXTINF:-1 tvg-id="MOVIES.NOW.in" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/Movies now HD.png" , Movies Now HD
 http://87.255.35.150:18935
-#EXTINF:-1 tvg-id="ts599" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" , MNX HD
+#EXTINF:-1 tvg-id="MNX.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" , MNX HD
 http://87.255.35.150:18936
-#EXTINF:-1 tvg-id="ts345" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" , Hungama TV
+#EXTINF:-1 tvg-id="HUNGAMA.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" , Hungama TV
 http://87.255.35.150:18811
-#EXTINF:-1 tvg-id="ts1066" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" , Disney Channel HD
+#EXTINF:-1 tvg-id="Disney.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" , Disney Channel HD
 http://66.102.120.18:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="ts45" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" , Sony Yay!
+#EXTINF:-1 tvg-id="Sony.yay.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" , Sony Yay!
 http://87.255.35.150:18285
