@@ -1,10 +1,7 @@
 # iptv
 
 ## sources
-iptv-org.github.io
-iptv-web.app
-open-epg.com
+https://iptv-org.github.io<br>https://iptv-web.app<br>https://open-epg.com
 
 ## tools
-streamtest.in
-m3u-ip.tv
+streamtest.in<br>m3u-ip.tv
