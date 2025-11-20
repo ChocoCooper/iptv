@@ -1,6 +1,6 @@
 # iptv
 
-[**m3u playlist file**](https://raw.githubusercontent.com/ChocoCooper/iptv/refs/heads/main/iptvcc.m3u)
+[***m3u playlist file***](https://raw.githubusercontent.com/ChocoCooper/iptv/refs/heads/main/iptvcc.m3u)
 
 A IPTV playlist with curated list of channels.
 
